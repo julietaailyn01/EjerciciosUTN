@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619018483 source:c:\users\juli\documents\juli\programacion\programacion 1a\notasalumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
